@@ -9364,19 +9364,19 @@ button.bg-dark:focus {
 }
 
 .text-primary {
-  color: #1abc9c !important;
+  color: #d7d7ff !important;
 }
 
 a.text-primary:hover, a.text-primary:focus {
-  color: #117964 !important;
+  color: #a4a4ff !important;
 }
 
 .text-secondary {
-  color: #2c3e50 !important;
+  color: #ff8b8b !important;
 }
 
 a.text-secondary:hover, a.text-secondary:focus {
-  color: #11181f !important;
+  color: #ff7272 !important;
 }
 
 .text-success {
